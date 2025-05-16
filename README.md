@@ -29,5 +29,5 @@ The backend will run on http://localhost:8080
 bash
 cd expense-tracker-frontend
 npm install  # Install dependencies
-npm run dev  # Runs on http://localhost:3000
+npm run dev  # Runs on http://localhost:5173
 
